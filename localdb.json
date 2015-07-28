@@ -1,0 +1,7 @@
+{
+    "database": "localdatabasename",
+    "user": "localdbuser",
+    "pass": "localbpass",
+    "host": "localdbhost",
+    "url": "localdevurl"
+}
